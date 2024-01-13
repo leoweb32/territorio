@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Cellblock/wp-content/themes/cellblock"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../execicios JS"
+		}
+	],
+	"settings": {}
+}
